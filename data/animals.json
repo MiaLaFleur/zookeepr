@@ -108,6 +108,25 @@
         "hungry"
       ],
       "id": "10"
+    },
+    {
+      "name": "MiMi",
+      "species": "sloth",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "sleepy"
+      ],
+      "id": "11"
+    },
+    {
+      "name": "Foo",
+      "species": "Gorilla",
+      "diet": "omnivore",
+      "personalityTraits": [
+        "hungry",
+        "goofy"
+      ],
+      "id": "12"
     }
   ]
 }
